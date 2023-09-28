@@ -1,20 +1,19 @@
 {
   "name": "dir-tree-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logs the dir tree into the console.",
   "main": "./dist/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc & node ./dist/index.js"
-  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Franky Melero",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.7.1",
     "@typescript-eslint/eslint-plugin": "^6.7.3",
     "@typescript-eslint/parser": "^6.7.3",
     "eslint": "^8.50.0",
     "typescript": "^5.2.2"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }

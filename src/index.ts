@@ -30,8 +30,6 @@ function listDirectories(directoryPath:string, prefix:string = '', excludedDirec
   }
 }
 
-initialize("./",["node_modules"]);
-
 module.exports = {
   initialize,
 };
