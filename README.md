@@ -22,20 +22,10 @@ const logger = require('dir-tree-logger');
 2. Initialize the logger by providing the base path and optionally a list of directories to exclude:
 
 ```javascript
-logger.initialize('./ruta-base', ['node_modules', 'carpeta-omitida']);
+logger.initialize('./base-route', ['node_modules', 'omitted-directory']);
 ```
 3. Run your application to view the directory structure log in the console.
 
-```javascript
-const logger = require('dir-tree-logger');
-```
-
-4. Initialize the logger to log the directory structure in './my-directory'
-```javascript
-logger.initialize('./mi-directorio', ['node_modules']);
-```
-
-5. Run your application
 
 ## Contribute
 If you'd like to contribute to this project, we welcome collaborations! Feel free to open an issue or submit a pull request.

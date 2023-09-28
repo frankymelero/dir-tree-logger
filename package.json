@@ -1,6 +1,6 @@
 {
   "name": "dir-tree-logger",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Logs the dir tree into the console.",
   "main": "./dist/index.js",
   "keywords": [],
