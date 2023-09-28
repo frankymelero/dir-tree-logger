@@ -37,11 +37,11 @@ logger.initialize('./mi-directorio', ['node_modules']);
 
 5. Run your application
 
-## Contribuir
+## Contribute
 If you'd like to contribute to this project, we welcome collaborations! Feel free to open an issue or submit a pull request.
 
-## Licencia
+## License
 This project is under the MIT License.
 
-## Contacto
+## Contact
 For questions or comments, you can contact Franky Melero on LinkedIn.
